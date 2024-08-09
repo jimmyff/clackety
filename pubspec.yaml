@@ -1,6 +1,6 @@
 name: clackety
 description: "A lightweight typing animation widget for Flutter apps"
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/jimmyff/clackety
 
 environment:

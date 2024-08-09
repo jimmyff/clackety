@@ -1,6 +1,6 @@
 # clackety
 
-A lightweight Flutter package (zero external dependencies) to animate the typing of text (like a typewriter / typist). You can provide new typing targets via the controller and clackety will amend the text already written.
+A lightweight [Flutter package](https://pub.dev/packages/clackety) (zero external dependencies) to animate the typing of text (like a typewriter / typist). You can provide new typing targets via the controller and clackety will amend the text already written.
 
 ![Clackety demo animation](https://raw.githubusercontent.com/jimmyff/clackety/master/example/example.gif "clackety demo")
 
