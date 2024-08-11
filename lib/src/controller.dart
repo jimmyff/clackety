@@ -47,9 +47,8 @@ class ClacketyController extends ChangeNotifier {
   }
 
   void type(String text, {Function()? onComplete}) {
-    // Do not accept existing destination
-    // TODO: Could cause issues if onComplete has changed?
     if (valueWhenComplete == text) {
+      onComplete?.call();
       return;
     }
     _sequence =

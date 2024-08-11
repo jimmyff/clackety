@@ -12,7 +12,7 @@ A lightweight [Flutter package](https://pub.dev/packages/clackety) (zero externa
 - Easy to use with or without Controller
 - Zero dependencies, lightweight & optimised
 - Tap to fast-forward
-- onCompelte callback support
+- onComplete callback support
 
 ---
 
