@@ -54,8 +54,6 @@ class ClacketyController extends ChangeNotifier {
     _sequence =
         ClacketySequence.fromStrings(_value, text, onComplete: onComplete);
 
-    print('_sequence $text: $_sequence ${_sequence.onComplete}');
-
     if (!_isTyping && !_isDisposed) {
       _doTyping();
     }
